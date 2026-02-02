@@ -59,7 +59,7 @@ The Power BI report consists of the following pages:
 # 📊 Page 1: General View
 
 ### 📸 General View Dashboard
-![Dashboard OverView] (https://github.com/Thiruvariyamuthu/Shield-Insurance/blob/main/Shield%20Insurance%20Dashboards%20Pic/General%20View.png)
+![Dashboard OverView](https://github.com/Thiruvariyamuthu/Shield-Insurance/blob/main/Shield%20Insurance%20Dashboards%20Pic/General%20View.png)
 
 ### 📌 What This Page Shows
 
@@ -83,7 +83,7 @@ This page establishes the **baseline performance** and explains *why* changes in
 # 🧭 Page 2: Sales Mode Analysis
 
 ### 📸 Sales Mode Analysis Dashboard
-![Dashboard Overview] (https://github.com/Thiruvariyamuthu/Shield-Insurance/blob/main/Shield%20Insurance%20Dashboards%20Pic/Sales%20Mode%20Analysis.png)
+![Dashboard Overview](https://github.com/Thiruvariyamuthu/Shield-Insurance/blob/main/Shield%20Insurance%20Dashboards%20Pic/Sales%20Mode%20Analysis.png)
 
 ### 📌 What This Page Shows
 
@@ -106,7 +106,7 @@ The business currently relies on **agent-driven sales**, while digital channels 
 # 👥 Page 3: Age Group Analysis
 
 ### 📸 Age Group Analysis Dashboard
-![Dasboard Overview] (https://github.com/Thiruvariyamuthu/Shield-Insurance/blob/main/Shield%20Insurance%20Dashboards%20Pic/Age%20Group%20Analysis.png)
+![Dasboard Overview](https://github.com/Thiruvariyamuthu/Shield-Insurance/blob/main/Shield%20Insurance%20Dashboards%20Pic/Age%20Group%20Analysis.png)
 
 ### 📌 What This Page Shows
 
