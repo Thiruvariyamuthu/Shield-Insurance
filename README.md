@@ -37,7 +37,7 @@ The Power BI report consists of the following pages:
 # 🏠 Home Page – Navigation Hub
 
 ### 📸 Home Page Dashboard
-<!-- INSERT HOME PAGE IMAGE HERE -->
+![Dashboard OverView](https://github.com/Thiruvariyamuthu/Shield-Insurance/blob/main/Shield%20Insurance%20Dashboards%20Pic/Home%20Page.png)
 
 ### 📌 Purpose of this Page
 
