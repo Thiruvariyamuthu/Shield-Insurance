@@ -177,15 +177,11 @@ Special thanks to **Dhaval Patel** and **Hemanand Vadivel** for their mentorship
 
 ---
 
-## 🎯 Career Note
-
-I’m currently exploring **entry-level Data Analyst / Business Analyst opportunities**, where I can apply **analytical thinking and business-focused insights** to solve real-world problems.
-
 📩 Feel free to connect with me on **LinkedIn**.
 
 ---
 
-## ⭐ Final Note for Recruiters
+## ⭐ Final Note
 
 This project demonstrates:
 
