@@ -160,12 +160,9 @@ Beyond the initial requirements, the following enhancements were implemented:
 
 ## 🔗 Project Links
 
-- 🔴 **Live Power BI Dashboard**  
-  👉 *(https://app.powerbi.com/view?r=eyJrIjoiYjY3NWQzYzQtNTVmNS00ODcwLWJkMDItMTRiYWUzZTcwNjA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
+- 🔴 **[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjY3NWQzYzQtNTVmNS00ODcwLWJkMDItMTRiYWUzZTcwNjA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 
 - 💼 **LinkedIn Project Post**  
-  👉 *()*
-
 ---
 
 ## 🙏 Acknowledgements
