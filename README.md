@@ -162,7 +162,7 @@ Beyond the initial requirements, the following enhancements were implemented:
 
 - 🔴 **[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjY3NWQzYzQtNTVmNS00ODcwLWJkMDItMTRiYWUzZTcwNjA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 
-- 💼 **LinkedIn Project Post**  
+- 💼 **[LinkedIn Project Post](https://www.linkedin.com/posts/thiruvariyamuthu_codebasicsvirtualinternship-powerbi-dataanalyst-activity-7423941055470989312-R73_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPY-yABJ40C9UnUqbX3G-jiPZWpYugDDJk)**  
 ---
 
 ## 🙏 Acknowledgements
